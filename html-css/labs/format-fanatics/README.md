@@ -26,9 +26,9 @@ that we're practicing.
 
 2. Format Two:
 Recreate this format in the `format_two.css` and `format_two.html`. You'll need
-to use the `span` property to get all of the columns looking the way you want
-them. In order to have your page border look correct you'll need to span in both
-the column and row direction.
+to use the `span` property or the `grid-template-areas` property to get all of the columns looking the way you want
+them. Altnernatively, you can use the  `span` property.  (You'll need to span in both
+the column and row direction.)
 
     ![](https://media.giphy.com/media/3o7WIEF2KAorL474VW/giphy.gif)
 
