@@ -20,7 +20,7 @@
 }
 
 /* Making border black */
-#b {
+.border {
   background-color: black;
 }
 
