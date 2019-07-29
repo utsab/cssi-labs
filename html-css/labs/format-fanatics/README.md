@@ -26,7 +26,7 @@ that we're practicing.
 
 2. Format Two:
 Recreate this format in the `format_two.css` and `format_two.html`. You'll need
-to use the `span` property or the `grid-template-areas` property to get all of the columns looking the way you want
+to use the `grid-template-areas` property to get all of the columns looking the way you want
 them. Altnernatively, you can use the  `span` property.  (You'll need to span in both
 the column and row direction.)
 
